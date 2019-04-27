@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Household</string>
+    <string name="consumer_key" translatable="false">e1691b2f596306eee507a5c66bcf5e7181ebcccc</string>
+    <string name="consumer_secret" translatable="false">5b92b25d9f24c79a8681c3dac796c3fb16f43f1c</string>
+    <string name="request_token_url" translatable="false">https://api.zaim.net/v2/auth/request</string>
+    <string name="access_token_url" translatable="false">https://api.zaim.net/v2/auth/access</string>
+    <string name="authrize_url" translatable="false">https://auth.zaim.net/users/auth</string>
+    <string name="text_go_to_login_page" translatable="false">ログイン画面へ</string>
+
+     <!--action Button text-->
+    <string name="text_load_money" translatable="false">GetMoney</string>
+    <string name="text_load_verify" translatable="false">Verify</string>
+    <string name="text_load_category" translatable="false">Category</string>
+    <string name="text_load_genre" translatable="false">Genre</string>
+
+
+</resources>
